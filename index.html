@@ -8,7 +8,7 @@
 <body>
   <div class="container">
     <header>
-      <h1>mindfullness timer</h1>
+      <h1>Mindfulness Timer</h1>
     </header>
 
     <div class="sidebar">
@@ -18,28 +18,31 @@
     </div>
 
     <main class="main-content">
-      <div class="timer-name">Timer Name (Topic)</div>
-      <div class="timer-display">00:00 hr/sec/min</div>
+      <div id="timerName" class="timer-name">Timer Name (Topic)</div>
+      <div id="timerDisplay" class="timer-display">00:00:00</div>
       <div class="timer-buttons">
-        <button>Stop</button>
-        <button>Start</button>
-        <button>Pause</button>
-        <button>Reset</button>
+        <button id="stopBtn">Stop</button>
+        <button id="startBtn">Start</button>
+        <button id="pauseBtn">Pause</button>
+        <button id="resetBtn">Reset</button>
       </div>
     </main>
 
     <aside class="controls">
       <div class="input-group">
-        <label>Set the Timer Name</label>
-        <input type="text" placeholder="Enter Name">
+        <label for="inputName">Set Timer Name</label>
+        <input type="text" id="inputName" placeholder="Enter Name">
       </div>
       <div class="input-group">
-        <label>Set Duration</label>
-        <input type="text" placeholder="hh:mm:ss">
+        <label>Set Duration (HH:MM:SS)</label>
+        <input type="number" id="inputHours" placeholder="Hours">
+        <input type="number" id="inputMinutes" placeholder="Minutes">
+        <input type="number" id="inputSeconds" placeholder="Seconds">
       </div>
-      <button class="create-btn">Create</button>
+      <button id="setTimerBtn" class="create-btn">Create</button>
     </aside>
   </div>
+
   <script src="index.js"></script>
 </body>
 </html>
