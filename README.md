@@ -26,9 +26,9 @@ The **Mindfulness Timer** is a web application designed to help users practice m
 <img width="664" height="310" alt="create timer" src="https://github.com/user-attachments/assets/d6cb1257-6fc5-494b-9ce7-bbc95e6c9e27" />
 <img width="675" height="311" alt="start timer" src="https://github.com/user-attachments/assets/89513ee0-c547-47a6-bb1e-b6bd61a4717b" />
 <img width="284" height="134" alt="pause timer" src="https://github.com/user-attachments/assets/fe09c021-37ea-418b-8f24-151702af9484" />
+<img width="326" height="230" alt="image" src="https://github.com/user-attachments/assets/5f584140-56f3-40ee-b32a-bed260119985" />
+<img width="330" height="205" alt="image" src="https://github.com/user-attachments/assets/1c355940-2ae8-4b9a-a47c-56da0abdf731" />
 
-<img width="680" height="307" alt="stop timer" src="https://github.com/user-attachments/assets/699a1423-bca9-4fb1-8263-67bf944d76c7" />
-<img width="681" height="309" alt="reset timer" src="https://github.com/user-attachments/assets/ad45f193-bd56-4b00-99c1-c695f91ceebf" />
 
 ---
 
